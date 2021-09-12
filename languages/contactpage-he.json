@@ -1,0 +1,17 @@
+{
+    "contact": "יצירת קשר",
+    "form.email": "כתובת מייל",
+    "form.name": "שם",
+    "form.subject": "כותרת",
+    "form.message": "הודעה",
+    "form.captcha": "קאפצ'ה",
+    "btn.send": "שלח",
+    "contact-error": "שגיאה ביצירת קשר",
+    "invalid.email": "כתובת מייל שגוי",
+    "error.mail": "התקבלה שגיאה מהשרת בשליחת ההודעה, נסו שוב מאוחר יותר",
+    "error.incomplete": "נא למלאות את כל השדות",
+    "error.incomplete.recaptcha": "נא לאמת את הקאפצ'ה!",
+    "error.invalid.recaptcha": "הקאפצ'ה שגוי!",
+    "send.success": "ההודעה נשלחה בהצלחה. נחזור אליכם בהקדם.",
+    "email.header": "%1 שלוח את ההודעה:"
+}
